@@ -1,4 +1,7 @@
-# Simple Todo List
+# Template 
+This repo serves as a template used by the [`create.sh`](https://github.com/kbton/node-app-template/blob/master/create.sh) script to provision the foundation of our kohezion fullstack apps.
+
+## Simple Todo List
 
 The Meteor Tutorial app.
 
