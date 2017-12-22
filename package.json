@@ -9,7 +9,7 @@
     "classnames": "^2.2.5",
     "material-ui": "^0.20.0",
     "meteor-node-stubs": "^0.3.2",
-    "react": "^16.1.1",
+    "react": "^16.1.1", 
     "react-dom": "^16.1.1",
     "react-froala-wysiwyg": "^2.7.3",
     "react-router-dom": "^4.2.2"
